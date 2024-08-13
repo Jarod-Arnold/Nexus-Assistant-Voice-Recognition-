@@ -20,7 +20,5 @@ def open_website(query):
 webpages = {
     'open dnd map' : "https://darkanddarker.map.spellsandguns.com/map/Crypt-01-N",
     "open youtube" : "https://www.youtube.com",
-    "open d2l" : "https://login.pcc.edu/cas/login?service=https%3a%2f%2fonline.pcc.edu%2fd2l%2fcustom%2fcas%3ftarget%3d%252fd2l%252flp%252fouhome%252fhome.d2l%253fou%253d6605",
-    "open my pcc" : "https://my.pcc.edu", #! REFINED IN V8
-    "open chat gpt" : "https://chatgpt.com/", #! ADDED IN V8
+    "open chat gpt" : "https://chatgpt.com/",
 }
