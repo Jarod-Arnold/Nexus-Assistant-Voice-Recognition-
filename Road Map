@@ -1,0 +1,6 @@
+----- Features / Changes -----
+Fix Threading / only one TTS bug ::: DONE
+Search the web for specific queries (i.e. search the web for python loops) :::: DONE
+Figure out toggle for continuous and single command input :::: BUGS TO WORK OUT
+Different TTS voice (the finals ai voice?) :::: WIP
+Timers, alarms, timed reminders :::: WIP
