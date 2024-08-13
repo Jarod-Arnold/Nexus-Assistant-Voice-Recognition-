@@ -16,9 +16,9 @@ import time
 from config import *
 from macros_pyautogui import *
 from web_search import *
-from time_test import current_time
+from time_cmd import current_time
 from recorder import record, is_recording_macro
-from playbackV2 import playActions
+from playback import playActions
 
 # Initialize speech engine
 engine = pyttsx3.init()
